@@ -1,0 +1,112 @@
+p, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+}
+nav {
+    background-color:#F0FFF0;
+}
+#hero {
+    background-color: #F0FFF0;
+}
+.container{
+    margin-bottom: 100px;
+}
+.btn-signIn {
+    background-color:#21B573;
+    border-radius: 2rem;
+    padding: .75rem 1.75rem;
+}
+.btn-signIn:hover {
+    background-color:#3bcc8b;
+}
+.logo{
+    max-width: 200px;
+}
+.first-image{
+    max-width: 375px;
+   
+}
+.are-you{
+    color: #FD511A;
+}
+#features img{
+    height: 65px;
+}
+.any{
+    color:#21B573 ;
+}
+h5,h3 {
+    font-weight: 600;
+    color: #413960;
+}
+p{
+    color: gray;
+}
+.box {
+    border-radius: .2rem;
+    transition: all .3s ease-in-out;
+    background: #F8FFFB;
+}
+.box:hover {
+    box-shadow: 0 14px 16px rgba(0, 0, 0, .1);
+    background: white;
+}
+.card{
+    border: none;
+    
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.card-footer img{
+    height: 20px;
+}
+.tarek-pic{
+    max-width: 120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#last-sec{
+    background-color: #282531;
+    height: 350px;
+}
+#last-sec p{
+    color: white;
+}
+li,b{
+    color: white;
+    list-style: none;
+}
+.footer{
+    background-color: #282531;
+}
+
+
+
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to right, #614385 0%, #516395  51%, #614385  100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+}
+
+.buy-now-button:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+
+
+ 
