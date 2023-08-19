@@ -10,6 +10,9 @@ nav {
 .container{
     margin-bottom: 100px;
 }
+.py-5{
+    padding-top: 0rem!important;
+}
 .btn-signIn {
     background-color:#21B573;
     border-radius: 2rem;
@@ -22,7 +25,7 @@ nav {
     max-width: 200px;
 }
 .first-image{
-    max-width: 375px;
+    max-width: 340px;
    
 }
 .are-you{
